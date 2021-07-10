@@ -1,5 +1,7 @@
 ### Hi there, I'm xStrixU 👋
 
+I'm 16 years old programmer from Poland. I focus on writing in Java, NodeJS and Golang. I'm interested in network programming.
+
 📈 **GitHub Stats:**
 
 <p>
