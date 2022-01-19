@@ -1,6 +1,6 @@
 ### Hi there, I'm xStrixU 👋
 
-🧒🏼 **About me:**
+🧒🏼 **About me:**<br/>
 16 year old programming freak from Poland, future fullstack developer at React and Spring. I write the most in Java, Kotlin, NodeJS and TypeScript. I am also amator in GoLang, PHP and C++.
 
 📈 **GitHub Stats:**
