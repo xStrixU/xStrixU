@@ -40,11 +40,14 @@ I'm 18 years old software developer from Poland, mostly focused on **web develop
 ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=for-the-badge&logoColor=white&logo=json%20web%20tokens)
 
 ## 📈 GitHub stats:
-<div style="display:flex;align-items:center;justify-content:center;gap:5px;">
+<center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=xStrixU&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/anuraghazra.github.io">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xStrixU&show_icons=true&layout=compact&langs_count=10" />
   </a>
-</div>
+</center>
+
+## ✉️ Contact
+![Discord](https://img.shields.io/badge/xstrixu%233894-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
